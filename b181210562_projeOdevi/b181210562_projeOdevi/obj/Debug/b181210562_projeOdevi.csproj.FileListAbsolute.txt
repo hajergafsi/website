@@ -1,0 +1,10 @@
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\bin\Debug\b181210562_projeOdevi.exe.config
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\bin\Debug\b181210562_projeOdevi.exe
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\bin\Debug\b181210562_projeOdevi.pdb
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.csprojAssemblyReference.cache
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.Form1.resources
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.Properties.Resources.resources
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.csproj.GenerateResource.cache
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.exe
+C:\Users\hajer\source\repos\b181210562_projeOdevi\b181210562_projeOdevi\obj\Debug\b181210562_projeOdevi.pdb
